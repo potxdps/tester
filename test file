@@ -10,3 +10,7 @@ more added 1223pm
 switched branches
 switched branches
 
+<<<<<<< HEAD
+=======
+on thisBranch adding this line
+>>>>>>> thisBranch
